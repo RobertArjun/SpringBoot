@@ -1,7 +1,5 @@
 ## Use JPA + Hibernate + MySQL in Spring Boot
 
-See here for more informations: 
-http://blog.netgloo.com/2014/10/06/spring-boot-data-access-with-jpa-hibernate-and-mysql/
 
 ### Usage
 
@@ -23,7 +21,7 @@ database connection.
 
 #### Prerequisites
 
-- Java 7
+- Java 8
 - Maven 3
 
 #### From terminal
